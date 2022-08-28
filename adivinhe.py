@@ -1,6 +1,6 @@
 import random
 
-print("Digite o maior número possível")
+print("Digite o maior número possível para o computador gerar")
 num_max = input("Depois você vai ter que adivinhar qual é: ")
 
 if num_max.isdigit():
